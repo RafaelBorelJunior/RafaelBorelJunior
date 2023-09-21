@@ -54,5 +54,5 @@
 
 ### Vamos Conectar?
 <!-- 🌐 [Portfolio](https://seuwebsite.com) -->
-- 💼 [LinkedIn](https://www.linkedin.com/in/dvdalves/)
-- 📸 [Instagram](https://www.instagram.com/davidsevla/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-borel-b566821aa/)
+- 📸 [Instagram](https://www.instagram.com/r.borel.jr/)
